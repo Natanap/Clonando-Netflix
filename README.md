@@ -8,3 +8,5 @@ O site se chamará TRAILERFLIX, onde adicionei os vídeos que foram puxados do Y
 
 Além disso os botões INICIO, SERIES, VIDEOS E O PROPRIO LOGO da TRAILERFLIX são interativos e acessam algum link da página.
 
+Inicie pela pagina INDEX.HTML. 
+
